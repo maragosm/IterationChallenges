@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\bin\Debug\netcoreapp3.1\Iteration Statements Challenge.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Iteration Statements Challenge\obj\Debug\netcoreapp3.1\Iteration Statements Challenge.genruntimeconfig.cache
